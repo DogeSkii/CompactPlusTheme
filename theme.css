@@ -6,7 +6,7 @@
 .avatar-1BDn8e  {display:none !important;} 
 .replyAvatar-1K9Wmr {display:none !important;}
 .latin12CompactTimeStamp-38a8OU {display:none !important;}
-.avatar-37jOim {display:none !important;}
+/*.avatar-37jOim {display:none !important;} *	/
 
 .cozy-3raOZG.wrapper-2a6GCs {
   padding-left: 35px;
@@ -135,4 +135,52 @@
 .winButtonMinMax-PBQ2gm[aria-label="Minimize"]:hover {
   background-color:#2541B2;
   color:white;
+}
+.avatarWrapperNormal-26WQIb {display:none !important;}
+.pointerEvents-2zdfdO{width: 30px;height: 30px;Y: 0px;X: 0px;}
+.headerTop-3vNv-a {
+  padding-top:10px !important;
+}
+.tipTitle-GL9qAt{content:"";font-size: 0px;}
+.tipTitle-GL9qAt::before{content:"Hey...";font-size: 12px;}
+.tip-2cgoli{content:"";font-size: 0px;}
+.tip-2cgoli::before{content: "You're Offline :c";font-size: 16px;}
+.problems-3mgf6w.slideIn-sCvzGz{display:none;}
+.container-16j22k.fixClipping-3qAKRb{background:rgba(0, 0, 0, 0.1);backdrop-filter: blur(5px);}
+
+.headerTop-3vNv-a, .rolesList-1geHY1, .headerTextNormal-2mGWX3, .customStatus-oN4ZZY, .aboutMeTitle-1IYtPE{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.avatarWrapperNormal-26WQIb{
+  position: absolute;
+  left: 35%;
+}
+.profileBadges-ohc0Vu{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-height: 100px;
+  transform: translateY(-8px);
+  position: absolute;
+  transform: translate(-250px);
+}
+.userPopout-xaxa6l .input-cIJ7To, .aboutMeSection-1Fw5Ia, .bodyTitle-1ySSKn, .textarea-2r0oV8, .marginBottom8-AtZOdT.size14-e6ZScH{
+  text-align: center;
+}
+/* Message Fly-in */
+@keyframes slide-up {
+    0% {
+        opacity: 0;
+        transform: translateX(20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+.message-2qnXI6 {
+  animation: slide-up 0.4s ease;
 }
