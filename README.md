@@ -13,7 +13,9 @@ Borders between messages
 
 # Bugs
 
-  Cannot Switch status while using theme.
+  ~~Cannot Switch status while using theme.~~
+  
+  Cannot see others status when using theme.
   
 # How to install
 Run this in your cmd
