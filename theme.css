@@ -41,3 +41,42 @@
   padding-left: 16px;
   padding-right: 16px;
 }
+
+.avatarWrapper-3r9PdD{
+  border-radius: none;
+  position: none;
+  z-index: none;
+  top: none;
+  left: none;
+}
+.assetsLargeMaskVoiceChannel-2k1oGM {-webkit-mask-size: cover;}
+
+/* Custom status emoji center */
+
+
+.customStatus-oN4ZZY > .customStatusEmoji-3a2-Zo.customStatusSoloEmoji-1tDhmL:only-child {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+.container-16j22k {
+  /* You may need to adjust this */
+  --translate-px: -389px;
+  height: 1px;
+  transform: translateY(var(--translate-px));
+  background: transparent;
+}
+.container-16j22k::before {
+  content: 'You are offline!';
+  top: 0.5px;
+  position: absolute;
+  font-weight: 900;
+  font-size: smaller;
+  color: var(--info-danger-foreground);
+  text-transform: uppercase;
+}
+.container-16j22k > .content-1-zrf2,
+.container-16j22k > .problems-3mgf6w {
+  display: none;
+}
