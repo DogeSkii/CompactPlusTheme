@@ -2,11 +2,7 @@
 ## Compact + Theme for powercord
 
 # How to install
-Run this in your cmd
-
-```cmd
-cd %UserProfile% && cd powercord\src\Powercord\themes && git clone https://github.com/DogeSkiii/CompactPlusTheme && echo Installed! Please Reload powercord to make this work.
-```
+Run the INSTALL.BAT file <https://github.com/DogeSkiii/CompactPlusTheme/releases/tag/1.0> for install
 
 ## ScreenShot of theme
 
