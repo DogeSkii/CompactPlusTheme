@@ -34,7 +34,7 @@
   border-left-style: none;
   border-top-style: none;
   border-right-style: none;
-  border-image-source: linear-gradient(90deg, rgba(56,60,66,1) 0%, rgba(96,103,115,1) 50%, rgba(56,60,66,1) 100%);
+  border-image-source: linear-gradient(90deg, rgba(56,60,66,1) 0%, rgba(80,87,98,1) 50%, rgba(56,60,66,1) 100%);
   border-image-slice: 5;
   padding-top: 2px;
 }
