@@ -1,0 +1,41 @@
+.wrapper-3t9DeA {display:none !important;}
+.avatar-1BDn8e  {display:none !important;}
+.replyAvatar-1K9Wmr {display:none !important;}
+.latin12CompactTimeStamp-38a8OU {display:none !important;}
+
+.cozy-3raOZG.wrapper-2a6GCs {
+  padding-left: 35px;
+}
+.avatar-3uk_u9 {display:none !important;}
+
+.layout-2DM8Md {
+  padding-left: 15px;
+  border-style: solid;
+  border-width: medium;
+  border-bottom-style: solid;
+  border-left-style: none;
+  border-top-style: none;
+  border-right-style: none;
+	border-color: #2f3133;
+  border-radius: 5px;
+}
+.repliedMessage-VokQwo:before {
+  --spine-width: 0px;
+}
+.message-2qnXI6 {
+  border-style: solid;
+  border-width: medium;
+  border-bottom-style: dotted;
+  border-left-style: none;
+  border-top-style: none;
+  border-right-style: none;
+  border-image-source: linear-gradient(90deg, rgba(54,57,63,1) 0%, rgba(56,59,65,1) 50%, rgba(54,57,63,1) 100%);
+  border-image-slice: 5;
+  padding-top: 2px;
+}
+
+.headerTop-3vNv-a{
+  padding-top: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
