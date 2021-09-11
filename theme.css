@@ -171,7 +171,6 @@
   text-align: center;
 }
 
-/* Message Fly-in */
 @keyframes slide-up {
     0% {
         opacity: 0;
@@ -182,6 +181,9 @@
         transform: translateX(0);
     }
 }
-.message-2qnXI6 {
+.message-2qnXI6 .markup-2BOw-j{
   animation: slide-up 0.4s ease;
+}
+.isSending-9nvak6{
+  animation-name: none !important;
 }
