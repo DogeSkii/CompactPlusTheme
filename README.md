@@ -28,6 +28,6 @@ Borders between messages
 
   ~~Cannot Switch status while using theme.~~
   
-  Cannot see others status when using theme.
-  
+  ~~Cannot see others status when using theme.~~
+  Slide text is glitchy  
 
