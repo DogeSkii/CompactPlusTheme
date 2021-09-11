@@ -119,3 +119,20 @@
 .body-r6_QPy {
     border-radius: 0 0 8.5px 8.5px;
 }
+.winButtonClose-1HsbF- {
+  color:#ed4245;
+}
+.winButtonMinMax-PBQ2gm[aria-label="Maximize"] {
+  color:#d5b60a;
+}
+.winButtonMinMax-PBQ2gm[aria-label="Maximize"]:hover {
+  background-color:#d5b60a;
+  color:white;
+}
+.winButtonMinMax-PBQ2gm[aria-label="Minimize"] {
+  color:#2541B2;
+}
+.winButtonMinMax-PBQ2gm[aria-label="Minimize"]:hover {
+  background-color:#2541B2;
+  color:white;
+}
