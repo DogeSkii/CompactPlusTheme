@@ -170,17 +170,4 @@
 .userPopout-xaxa6l .input-cIJ7To, .aboutMeSection-1Fw5Ia, .bodyTitle-1ySSKn, .textarea-2r0oV8, .marginBottom8-AtZOdT.size14-e6ZScH{
   text-align: center;
 }
-/* Message Fly-in */
-@keyframes slide-up {
-    0% {
-        opacity: 0;
-        transform: translateX(20px);
-    }
-    100% {
-        opacity: 1;
-        transform: translateX(0);
-    }
-}
-.message-2qnXI6 {
-  animation: slide-up 0.4s ease;
-}
+
