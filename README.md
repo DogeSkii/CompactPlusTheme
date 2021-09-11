@@ -8,6 +8,8 @@
 # Features:
 Removed Profile pictures
 
+Literally compact but better
+
 Borders between messages
 
 
